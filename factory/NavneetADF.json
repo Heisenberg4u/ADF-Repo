@@ -1,0 +1,9 @@
+{
+	"name": "NavneetADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "262c40c7-f517-4675-b8b1-aa9d9aea2836",
+		"tenantId": "905a0602-9170-4a4e-8d8b-fbf711b3f6f6"
+	}
+}
